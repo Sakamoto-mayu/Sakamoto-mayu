@@ -4,6 +4,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakamoto-mayu)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username={名前}&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **Sakamoto-mayu/Sakamoto-mayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
