@@ -9,11 +9,15 @@
 <p align="left"> 
 
 <span>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamoto-mayu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </span>
 
+
 <span>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakamoto-mayu)](https://github.com/anuraghazra/github-readme-stats)
+
 </span>
 </p>
 
