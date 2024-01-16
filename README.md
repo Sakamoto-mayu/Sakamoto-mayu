@@ -1,10 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
+## Skills
 
-### Status
+
+## Status
 
 <p display="flex"> 
   
