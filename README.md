@@ -17,10 +17,10 @@
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamoto-mayu&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamoto-mayu&layout=compact" width="420" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sakamoto-mayu" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sakamoto-mayu" width="420" />
   </a>
 </div>
 
