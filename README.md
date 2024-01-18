@@ -1,3 +1,4 @@
+![2021-08-27_05-50-27_245](https://github.com/Sakamoto-mayu/Sakamoto-mayu/assets/116151295/e0e88fe1-c354-470d-abd2-7c3b035165b4)
 
 
   <h1 align="center">Hello! I'm Mayu.</h1>
