@@ -15,7 +15,7 @@
 <h2 align="left">Backend and others:</h2>
 
 <img width="208" alt="スクリーンショット 2024-01-18 21 45 23" src="https://github.com/Sakamoto-mayu/Sakamoto-mayu/assets/116151295/000e3a7d-2b0e-404e-bf75-2dede3cc14c6">
-
+<br>
 <img width="450" alt="スクリーンショット 2024-01-18 21 45 40" src="https://github.com/Sakamoto-mayu/Sakamoto-mayu/assets/116151295/1efbe75f-2c67-4406-a145-d8e31e893fe1">
 
 
