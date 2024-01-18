@@ -1,5 +1,16 @@
 
-<h1 align="center">Hello! I'm Mayu</h1>
+
+<div style="
+  font-family: 'Poppins', sans-serif;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #101010;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+">
+  <h1>Hello! I'm Mayu.</h1>
+</div>
 <h3 align="center">A passionate frontend developer from Japan</h3>
 
 <p align="left">
