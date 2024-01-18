@@ -17,7 +17,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamoto-mayu&layout=compact" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamoto-mayu&layout=compact" width="330" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Sakamoto-mayu" width="420" />
