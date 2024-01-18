@@ -13,6 +13,19 @@
 
 ## Status
 
+
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamoto-mayu&layout=compact" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sakamoto-mayu" />
+  </a>
+</div>
+
+
+
 <p display="flex"> 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamoto-mayu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,7 +36,6 @@
 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sakamoto-mayu)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
