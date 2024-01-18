@@ -1,8 +1,6 @@
-![2021-08-27_05-50-27_245](https://github.com/Sakamoto-mayu/Sakamoto-mayu/assets/116151295/e0e88fe1-c354-470d-abd2-7c3b035165b4)
 
+![2021-08-27_05-50-27_245-2](https://github.com/Sakamoto-mayu/Sakamoto-mayu/assets/116151295/f56ba891-6914-4c7f-8405-d6a669120bef)
 
-  <h1 align="center">Hello! I'm Mayu.</h1>
-<h3 align="center">A passionate frontend developer from Japan</h3>
 
 <p align="left">
 </p>
@@ -18,6 +16,7 @@
 <p display="flex"> 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamoto-mayu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakamoto-mayu)](https://github.com/anuraghazra/github-readme-stats)
